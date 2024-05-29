@@ -1,0 +1,72 @@
+2023-11-14 13:56:50,529 [1] DEBUG - MainForm_Load
+2023-11-14 13:56:50,938 [1] DEBUG - MainForm_Shown
+2023-11-14 13:57:01,338 [1] INFO - Выход из приложения
+2023-11-14 13:57:06,597 [1] DEBUG - MainForm_Load
+2023-11-14 13:57:06,626 [1] DEBUG - MainForm_Shown
+2023-11-14 13:59:11,730 [1] DEBUG - MainForm_Load
+2023-11-14 13:59:11,762 [1] DEBUG - MainForm_Shown
+2023-11-14 13:59:14,160 [1] INFO - Выход из приложения
+2023-11-14 13:59:25,062 [1] DEBUG - MainForm_Load
+2023-11-14 13:59:25,094 [1] DEBUG - MainForm_Shown
+2023-11-14 13:59:30,185 [1] INFO - Выход из приложения
+2023-11-14 13:59:33,855 [1] DEBUG - MainForm_Load
+2023-11-14 13:59:33,885 [1] DEBUG - MainForm_Shown
+2023-11-14 13:59:40,044 [1] INFO - Выход из приложения
+2023-11-14 14:01:36,333 [1] DEBUG - MainForm_Load
+2023-11-14 14:01:36,405 [1] DEBUG - MainForm_Shown
+2023-11-14 14:01:52,991 [1] INFO - Выход из приложения
+2023-11-14 14:02:23,881 [1] DEBUG - MainForm_Load
+2023-11-14 14:02:24,097 [1] DEBUG - MainForm_Shown
+2023-11-14 14:02:42,868 [1] DEBUG - MainForm_FormClosed
+2023-11-14 14:02:42,927 [1] INFO - Выход из приложения
+2023-11-14 14:02:49,562 [1] DEBUG - MainForm_Load
+2023-11-14 14:02:49,685 [1] DEBUG - MainForm_Shown
+2023-11-14 14:02:51,947 [1] DEBUG - MainForm_FormClosed
+2023-11-14 14:02:51,997 [1] INFO - Выход из приложения
+2023-11-14 14:03:21,411 [1] DEBUG - MainForm_Load
+2023-11-14 14:03:21,448 [1] DEBUG - MainForm_Shown
+2023-11-14 14:05:12,714 [1] DEBUG - MainForm_Load
+2023-11-14 14:05:12,742 [1] DEBUG - MainForm_Shown
+2023-11-14 14:05:19,402 [1] DEBUG - MainForm_FormClosed
+2023-11-14 14:05:19,480 [1] INFO - Выход из приложения
+2023-11-14 14:05:24,365 [1] DEBUG - MainForm_Load
+2023-11-14 14:05:24,405 [1] DEBUG - MainForm_Shown
+2023-11-14 14:06:39,692 [1] DEBUG - MainForm_Load
+2023-11-14 14:06:39,727 [1] DEBUG - MainForm_Shown
+2023-11-14 14:06:56,001 [1] DEBUG - MainForm_FormClosed
+2023-11-14 14:06:56,078 [1] INFO - Выход из приложения
+2023-11-14 14:06:59,631 [1] DEBUG - MainForm_Load
+2023-11-14 14:06:59,663 [1] DEBUG - MainForm_Shown
+2023-11-14 14:07:02,633 [1] DEBUG - MainForm_FormClosed
+2023-11-14 14:07:02,719 [1] INFO - Выход из приложения
+2023-11-14 14:07:44,357 [1] DEBUG - MainForm_Load
+2023-11-14 14:07:44,395 [1] DEBUG - MainForm_Shown
+2023-11-14 14:07:53,361 [1] DEBUG - MainForm_FormClosed
+2023-11-14 14:07:53,490 [1] INFO - Выход из приложения
+2023-11-14 14:07:58,502 [1] DEBUG - MainForm_Load
+2023-11-14 14:07:58,539 [1] DEBUG - MainForm_Shown
+2023-11-14 14:08:56,357 [1] DEBUG - MainForm_Load
+2023-11-14 14:08:56,387 [1] DEBUG - MainForm_Shown
+2023-11-14 14:09:11,428 [1] INFO - SERVER STARTED
+2023-11-14 14:09:11,429 [1] DEBUG -  connectButton_Click - ChackState:True
+2023-11-14 14:09:27,119 [1] DEBUG - MainForm_FormClosed
+2023-11-14 14:09:27,169 [1] INFO - SERVER STOPPED
+2023-11-14 14:09:27,199 [1] INFO - Выход из приложения
+2023-11-14 14:14:22,113 [1] DEBUG - MainForm_Load
+2023-11-14 14:14:22,143 [1] DEBUG - MainForm_Shown
+2023-11-14 14:14:31,758 [1] INFO - SERVER STARTED
+2023-11-14 14:14:37,585 [1] INFO - SERVER STOPPED
+2023-11-14 14:14:37,602 [1] DEBUG -  connectButton_Click - ChackState:False
+2023-11-14 14:15:52,938 [1] DEBUG - MainForm_Load
+2023-11-14 14:15:52,977 [1] DEBUG - MainForm_Shown
+2023-11-14 14:15:58,353 [1] INFO - SERVER STARTED
+2023-11-14 14:15:58,354 [1] DEBUG -  connectButton_Click - ChackState:True
+2023-11-14 14:16:11,380 [1] DEBUG - MainForm_FormClosed
+2023-11-14 14:16:11,433 [1] INFO - SERVER STOPPED
+2023-11-14 14:16:11,451 [1] INFO - Выход из приложения
+2023-11-14 14:16:15,566 [1] DEBUG - MainForm_Load
+2023-11-14 14:16:15,597 [1] DEBUG - MainForm_Shown
+2023-11-14 14:16:15,625 [1] INFO - SERVER STARTED
+2023-11-14 14:16:37,260 [1] DEBUG - MainForm_FormClosed
+2023-11-14 14:16:37,299 [1] INFO - SERVER STOPPED
+2023-11-14 14:16:37,319 [1] INFO - Выход из приложения

@@ -1,0 +1,17 @@
+2023-11-13 17:25:06,107 [1] DEBUG - MainForm_Load
+2023-11-13 17:25:06,138 [1] DEBUG - MainForm_Shown
+2023-11-13 17:25:12,515 [1] INFO - Выход из приложения
+2023-11-13 17:25:20,969 [1] DEBUG - MainForm_Load
+2023-11-13 17:25:21,000 [1] DEBUG - MainForm_Shown
+2023-11-13 17:27:27,366 [1] DEBUG - MainForm_Load
+2023-11-13 17:27:27,394 [1] DEBUG - MainForm_Shown
+2023-11-13 17:32:38,324 [1] DEBUG - MainForm_Load
+2023-11-13 17:32:38,482 [1] DEBUG - MainForm_Shown
+2023-11-13 17:36:10,278 [1] INFO - SERVER STARTED
+2023-11-13 17:36:23,795 [5] INFO - BaseConnection (127.0.0.1:60775), CREATE CLIENT...
+2023-11-13 17:36:23,801 [5] INFO - BaseConnection (127.0.0.1:60775), BeginReceive...
+2023-11-13 17:36:23,808 [5] INFO - USBIPClient connected (127.0.0.1:60775), waiting for request...
+2023-11-13 17:36:23,812 [5] DEBUG - Server_ClientConnected - { EndPoint:127.0.0.1:60775, Status:NONE }
+2023-11-13 17:36:23,815 [6] INFO - ReceiveCallback; this.Socket.Available = 0
+2023-11-13 17:36:23,816 [6] INFO - Получены данные (8) от КЛИЕНТА ({ EndPoint:127.0.0.1:60775, Status:NONE }): 0111800500000000 
+2023-11-13 17:36:23,819 [5] DEBUG - End Server_ClientConnected - { EndPoint:127.0.0.1:60775, Status:NONE }

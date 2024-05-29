@@ -1,0 +1,30 @@
+D:\Проекты\windows\usbip-tunnel\bin\Debug\usbip-tunnel.exe.config
+D:\Проекты\windows\usbip-tunnel\bin\Debug\usbip-tunnel.exe
+D:\Проекты\windows\usbip-tunnel\bin\Debug\usbip-tunnel.pdb
+D:\Проекты\windows\usbip-tunnel\obj\Debug\usbip-tunnel.csproj.AssemblyReference.cache
+D:\Проекты\windows\usbip-tunnel\obj\Debug\usbip-tunnel.csproj.SuggestedBindingRedirects.cache
+D:\Проекты\windows\usbip-tunnel\obj\Debug\usbip-tunnel.csproj.CoreCompileInputs.cache
+D:\Проекты\windows\usbip-tunnel\obj\Debug\usbip-tunnel.exe
+D:\Проекты\windows\usbip-tunnel\obj\Debug\usbip-tunnel.pdb
+D:\Проекты\windows\usbip-tunnel\bin\Debug\log4net.dll
+D:\Проекты\windows\usbip-tunnel\bin\Debug\log4net.xml
+D:\Проекты\windows\usbip-tunnel\obj\Debug\usbip_tunnel.forms.MainForm.resources
+D:\Проекты\windows\usbip-tunnel\obj\Debug\usbip-tunnel.csproj.GenerateResource.cache
+D:\Проекты\windows\usbip-tunnel\obj\Debug\usbip-tunnel.csproj.CopyComplete
+D:\Проекты\windows\usbip-tunnel\bin\Debug\log4net.config
+D:\Проекты\windows\usbip-tunnel — копия (4)\bin\Debug\log4net.config
+D:\Проекты\windows\usbip-tunnel — копия (4)\bin\Debug\usbip-tunnel.exe.config
+D:\Проекты\windows\usbip-tunnel — копия (4)\bin\Debug\usbip-tunnel.exe
+D:\Проекты\windows\usbip-tunnel — копия (4)\bin\Debug\usbip-tunnel.pdb
+D:\Проекты\windows\usbip-tunnel — копия (4)\bin\Debug\log4net.dll
+D:\Проекты\windows\usbip-tunnel — копия (4)\bin\Debug\log4net.xml
+D:\Проекты\windows\usbip-tunnel — копия (4)\obj\Debug\usbip-tunnel.csproj.AssemblyReference.cache
+D:\Проекты\windows\usbip-tunnel — копия (4)\obj\Debug\usbip-tunnel.csproj.SuggestedBindingRedirects.cache
+D:\Проекты\windows\usbip-tunnel — копия (4)\obj\Debug\usbip_tunnel.forms.MainForm.resources
+D:\Проекты\windows\usbip-tunnel — копия (4)\obj\Debug\usbip-tunnel.csproj.GenerateResource.cache
+D:\Проекты\windows\usbip-tunnel — копия (4)\obj\Debug\usbip-tunnel.csproj.CoreCompileInputs.cache
+D:\Проекты\windows\usbip-tunnel — копия (4)\obj\Debug\usbip-tunnel.csproj.CopyComplete
+D:\Проекты\windows\usbip-tunnel — копия (4)\obj\Debug\usbip-tunnel.exe
+D:\Проекты\windows\usbip-tunnel — копия (4)\obj\Debug\usbip-tunnel.pdb
+D:\Проекты\windows\usbip-tunnel\obj\Debug\usbip_tunnel.forms.LogForm.resources
+D:\Проекты\windows\usbip-tunnel\obj\Debug\usbip_tunnel.Properties.Resources.resources

@@ -1,0 +1,25 @@
+2023-08-14 10:21:26,434 [1] DEBUG - MainForm_Load
+2023-08-14 10:21:26,468 [1] DEBUG - MainForm_Shown
+2023-08-14 10:52:56,779 [1] INFO - Выход из приложения
+2023-08-14 11:20:38,163 [1] DEBUG - MainForm_Load
+2023-08-14 11:20:38,286 [1] DEBUG - MainForm_Shown
+2023-08-14 11:20:40,208 [1] DEBUG -  connectButton_Click - ChackState:False
+2023-08-14 11:20:44,631 [1] DEBUG -  connectButton_Click - ChackState:False
+2023-08-14 11:22:32,944 [1] DEBUG - MainForm_Load
+2023-08-14 11:22:32,979 [1] DEBUG - MainForm_Shown
+2023-08-14 11:22:35,752 [1] INFO - SERVER STARTED
+2023-08-14 11:22:35,752 [1] DEBUG -  connectButton_Click - ChackState:True
+2023-08-14 11:22:41,339 [1] INFO - SERVER STOPPED
+2023-08-14 11:22:41,355 [1] DEBUG -  connectButton_Click - ChackState:False
+2023-08-14 11:26:03,023 [1] DEBUG - MainForm_Load
+2023-08-14 11:26:03,084 [1] DEBUG - MainForm_Shown
+2023-08-14 11:26:07,850 [1] INFO - SERVER STARTED
+2023-08-14 11:26:07,850 [1] DEBUG -  connectButton_Click - ChackState:True
+2023-08-14 11:27:20,570 [1] INFO - SERVER STOPPED
+2023-08-14 11:27:20,628 [1] INFO - Выход из приложения
+2023-08-14 12:21:12,530 [1] DEBUG - MainForm_Load
+2023-08-14 12:21:12,623 [1] DEBUG - MainForm_Shown
+2023-08-14 12:21:16,177 [1] INFO - SERVER STARTED
+2023-08-14 12:21:16,178 [1] DEBUG -  connectButton_Click - ChackState:True
+2023-08-14 12:24:21,636 [1] INFO - SERVER STOPPED
+2023-08-14 12:24:21,671 [1] INFO - Выход из приложения

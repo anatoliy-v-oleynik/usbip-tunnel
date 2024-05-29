@@ -1,0 +1,28 @@
+2023-08-08 10:45:43,635 [1] DEBUG - MainForm_Load
+2023-08-08 10:45:43,666 [1] DEBUG - MainForm_Shown
+2023-08-08 10:45:49,073 [1] INFO - Выход из приложения
+2023-08-08 11:41:08,026 [1] DEBUG - MainForm_Load
+2023-08-08 11:41:08,112 [1] DEBUG - MainForm_Shown
+2023-08-08 11:49:24,253 [1] DEBUG - MainForm_Load
+2023-08-08 11:49:24,447 [1] DEBUG - MainForm_Shown
+2023-08-08 12:03:31,449 [1] DEBUG - MainForm_Load
+2023-08-08 12:03:31,625 [1] DEBUG - MainForm_Shown
+2023-08-08 12:05:01,068 [1] INFO - Выход из приложения
+2023-08-08 12:05:29,226 [1] DEBUG - MainForm_Load
+2023-08-08 12:05:29,266 [1] DEBUG - MainForm_Shown
+2023-08-08 12:05:59,838 [1] INFO - Выход из приложения
+2023-08-08 12:06:13,689 [1] DEBUG - MainForm_Load
+2023-08-08 12:06:13,733 [1] DEBUG - MainForm_Shown
+2023-08-08 12:10:26,611 [1] DEBUG - MainForm_Load
+2023-08-08 12:10:26,746 [1] DEBUG - MainForm_Shown
+2023-08-08 12:10:28,611 [1] INFO - Выход из приложения
+2023-08-08 12:10:35,123 [1] DEBUG - MainForm_Load
+2023-08-08 12:10:35,165 [1] DEBUG - MainForm_Shown
+2023-08-08 12:11:04,078 [1] INFO - Выход из приложения
+2023-08-08 12:36:56,850 [1] DEBUG - MainForm_Load
+2023-08-08 12:36:56,892 [1] DEBUG - MainForm_Shown
+2023-08-08 12:38:16,746 [1] DEBUG - MainForm_Load
+2023-08-08 12:38:16,820 [1] DEBUG - MainForm_Shown
+2023-08-08 12:38:56,106 [1] INFO - Выход из приложения
+2023-08-08 12:40:01,811 [1] DEBUG - MainForm_Load
+2023-08-08 12:40:01,838 [1] DEBUG - MainForm_Shown
